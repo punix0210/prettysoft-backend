@@ -1,0 +1,1 @@
+alter table Agenda add tempo int
